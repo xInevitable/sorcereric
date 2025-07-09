@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Script777 (Kanishka Prakash)
+- 👋 Hi, I’m @Script777
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning in class 8
+- 🌱 I’m currently learning as a Web Developer
 - 📫 How to reach me - kanishkprakash31@gmail.com
 
 <!---
