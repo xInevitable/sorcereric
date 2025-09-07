@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sorcereric
+- 👋 Hi, I’m @xInevitable
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning as a Web Developer
 - 📫 How to reach me - kanishkprakash31@gmail.com
